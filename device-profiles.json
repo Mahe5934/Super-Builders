@@ -30,13 +30,13 @@
         "compiler_info": "Android (11368308, +pgo, +bolt, +lto, +mlgo, based on r510928) clang version 18.0.0"
       }
     },
-    "lake_a15": {
+    "pong": {
       "name": "Nothing Phone 2",
       "codename": "Pong",
       "android_version": "android12",
       "kernel_version": "5.10",
       "sub_level": "237",
-      "os_patch_level": "2026-06",
+      "os_patch_level": "2025-06",
       "stock_kernel": {
         "release": "-5.10.237-android12-9-00009-g744d5c916fbb-ab15260229",
         "version_string": "#1 SMP PREEMPT Mon Apr 20 13:10:03 UTC 2026",
