@@ -44,6 +44,21 @@
         "build_host": "build-host",
         "compiler_info": "Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)"
       }
+    },
+    "PongIND": {
+      "name": "Nothing Phone 2",
+      "codename": "Pong",
+      "android_version": "android12",
+      "kernel_version": "5.10",
+      "sub_level": "237",
+      "os_patch_level": "2025-06",
+      "stock_kernel": {
+        "release": "-5.10.237-android12-9-00009-g744d5c916fbb-ab15260229",
+        "version_string": "#1 SMP PREEMPT Mon Apr 20 13:10:03 UTC 2026",
+        "build_user": "build-user",
+        "build_host": "build-host",
+        "compiler_info": "Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)"
+      }
     }
   },
   "_template": {
