@@ -17,7 +17,7 @@ on:
           - ReSukiSU
           - WKSU
           # - RKSU  # no SUSFS integration — deferred
-        default: "SukiSU"
+        default: "KernelSU-Next"
       add_susfs:
         description: "Add Enhanced SUSFS"
         type: boolean
@@ -51,8 +51,9 @@ on:
         type: choice
         options:
           - generic
+          - Pong
           - lake
-        default: "lake"
+        default: "Pong"
   workflow_call:
     inputs:
       ksu_variant:
@@ -81,7 +82,7 @@ on:
         default: ""
       device_codename:
         type: string
-        default: "lake"
+        default: "Pong"
 
 jobs:
   download-dependencies:
