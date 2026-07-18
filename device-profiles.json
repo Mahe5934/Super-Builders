@@ -30,7 +30,7 @@
         "compiler_info": "Android (11368308, +pgo, +bolt, +lto, +mlgo, based on r510928) clang version 18.0.0"
       }
     },
-    "pong": {
+    "Pong": {
       "name": "Nothing Phone 2",
       "codename": "Pong",
       "android_version": "android12",
